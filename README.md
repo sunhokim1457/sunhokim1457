@@ -1,5 +1,5 @@
 
-<h5 align="center">
+<h5 align="center" style="text-decoration: none">
   👋 Hi, I'm Sunho Kim. Welcome to my Github!
 </h5>
 
