@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Amazon Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache airflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 </p>
 
 <h5 align="center"> 📫 How to reach me </h5>
