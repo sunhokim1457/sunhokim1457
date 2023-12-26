@@ -1,7 +1,7 @@
-ㅁ
-<h5 align="center" style="text-decoration: none">
+
+<h4 align="center" style="text-decoration: none">
   👋 Hi, I'm Sunho Kim. Welcome to my Github!
-</h5>
+</h4>
 
 <h5 align="center"> 💻 Tech Stack </h5>
 <p align="center">
