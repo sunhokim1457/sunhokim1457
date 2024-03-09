@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
-<!--   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache airflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp
