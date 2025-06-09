@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp <br>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-the-badge&logo=Apache%20Airflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-the-badge&logo=dbt&logoColor=white"></a>&nbsp <br>
 </p>
 
 <h5 align="center"> 📫 How to reach me </h5>
